@@ -1,8 +1,8 @@
 # BadWallet API - Examen Design Pattern (L3 S2 2026)
 
 ## Auteur
-Nom : [À COMPLÉTER]
-Prénom : [À COMPLÉTER]
+Nom : [Thiombane]
+Prénom : [Mouhamadou AlAmine]
 Classe : L3 S2 2026
 
 ## Description
